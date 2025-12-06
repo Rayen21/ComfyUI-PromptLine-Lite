@@ -3,6 +3,18 @@
 因为我只需要其中的提示词的批处理功能所以截取了原版的代码，精简使用。
 
 在ComfyUI中实现按行拆分提示词，每一行提示词对应一次运行，达到批次生图的功能。
+
+2025年12月7日更新：
+在1.0版本基本上加入了自定义提示词框，可以放到批量列表的前面或者后面。
+效果和节点展示：
+![V2 0效果](https://github.com/user-attachments/assets/fbfcdfbc-e3ea-4b8e-a819-339834e94496)
+In version 1.0, custom prompt word boxes are basically added, which can be placed before or behind the batch list.
+
+
+
+=====================================================================
+
+以下是1.0版本
 效果和节点展示：
 <img width="1002" height="862" alt="效果" src="https://github.com/user-attachments/assets/efe50f3d-f944-4538-9582-2c36b9fde76e" />
 
